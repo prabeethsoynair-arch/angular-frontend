@@ -1,8 +1,0 @@
-import { HttpClientModule } from '@angular/common/http';
-
-@NgModule({
-  imports: [
-    HttpClientModule, // Add this to your imports
-  ],
-})
-export class AppModule {}
